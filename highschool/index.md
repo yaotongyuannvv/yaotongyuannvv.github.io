@@ -1,11 +1,11 @@
 ## On Suicide
 
-[On Suicide](https://yaotongyuannvv.github.io/highschool/202201.pdf) (2022.1)
+1.[On Suicide](https://yaotongyuannvv.github.io/highschool/202201.pdf) (2022.1)
 
-On Social Suicide (2022.2)
+2.[On Social Suicide](https://yaotongyuannvv.github.io/highschool/202202.pdf) (2022.2)
 
-On Philosophical Suicide
+3.On Philosophical Suicide
 
-On Class Suicide
+4.On Class Suicide
 
-## Click [here](https://yaotongyuannvv.github.io/) to go back. 
+## [Go Back](https://yaotongyuannvv.github.io/)
