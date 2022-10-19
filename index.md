@@ -32,7 +32,7 @@
 
 ## Projects
 
-**Geist(https://yaotongyuannvv.github.io/geist/)**
+**[Geist](https://yaotongyuannvv.github.io/geist/)**
 
 ## Correspondence
 
