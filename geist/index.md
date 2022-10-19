@@ -1,11 +1,15 @@
 ## Geist
 
+**Workshops**
+
+[Shimo]https://shimo.im/folder/m4kMLGzJ4ltlPMqD
+
 **Documents**
 
-(2022.10)
+(Last Updated 2022.10.19)
 
-**Works**
+**Programmes**
 
-(2022.10)
+Lectures on Philosophical Attitudes - Ongoing
 
-## Click [here](https://yaotongyuannvv.github.io/) to go back. 
+## [Go Back](https://yaotongyuannvv.github.io/)
