@@ -6,8 +6,6 @@
 
 **Documents**
 
-(Last Updated 2022.10.19)
-
 **Programmes**
 
 Lectures on Philosophical Attitudes - Ongoing
