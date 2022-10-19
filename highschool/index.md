@@ -8,4 +8,4 @@ On Philosophical Suicide - Planned
 
 On Class Suicide - Planned
 
-**<<Click [here](https://yaotongyuannvv.github.io/) to go back. **
+<< **Click [here](https://yaotongyuannvv.github.io/) to go back. **
