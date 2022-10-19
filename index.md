@@ -36,7 +36,7 @@
 
 ## Projects
 
-**Geist**, Click *[here](https://yaotongyuannvv.github.io/geist/) too see more. 
+**Geist**, click *[here](https://yaotongyuannvv.github.io/geist/) to see more. 
 
 Lectures on Philosophical Attitudes - Ongoing
 
