@@ -1,8 +1,8 @@
 ## Towards a Leninist
 
-[Ismism](https://geist-gespenst.notion.site/geist-gespenst/Ismism-Learning-Programme-420f37037481476d824679228f3c2c12) Transcript ([Weimingzi](https://space.bilibili.com/23191782))
+[Ismism](https://geist-gespenst.notion.site/geist-gespenst/Ismism-Learning-Programme-420f37037481476d824679228f3c2c12)
 
-[Leninist Aufheben](https://yaotongyuannvv.github.io/lenauf/)
+[LenAuf](https://yaotongyuannvv.github.io/lenauf/)
 
 ## Studies
 
@@ -24,9 +24,7 @@
 
 ## External Links
 
-**Websites**
-
-[Marxist Internet Archive](https://www.marxists.org/index.htm)
+**[Websites](https://yaotongyuannvv.github.io/websites/)**
 
 **[Resources](https://yaotongyuannvv.github.io/resources/)**
 
