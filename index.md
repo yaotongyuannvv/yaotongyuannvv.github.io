@@ -1,29 +1,17 @@
-## Welcome to Chengxin Gong's Homepage!
+## Studies
 
-**Chengxin Gong**
+**Philosophy**
 
-Undergraduate Student
+[Ismism](https://geist-gespenst.notion.site/geist-gespenst/Ismism-Learning-Programme-420f37037481476d824679228f3c2c12) 
 
-Advisors: [Jinwen Ma](https://www.math.pku.edu.cn/teachers/jwma/homepage/) and [Cheng Zhang](https://zcrabbit.github.io/)
+**Sociology**
 
-[Elite Undergraduate Training Program](https://www.math.pku.edu.cn/amel/)
+[Durkheim's On Suicide](https://geist-gespenst.notion.site/Durkheim-s-On-Suicide-9d9b90ee8d1f468a855aae7afcc4061b)
 
-[Department of Probability and Statistics](https://www.stat.pku.edu.cn/)
+## Writings
 
-[School of Mathematical Sciences](https://www.math.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/)
+## Readings
 
-Here is my [CV](https://wqgcx.github.io/CV.pdf).
+## More
 
-## Research Interests
-
-1. Computational Statistics, Bayesian Statistics, High-Dimensional Statistics.
-
-2. Machine Learning, Artifical Intelligence.
-
-## Courses
-
-Here are my [study notes](https://wqgcx.github.io/courses/). Available for research and non-commercial purposes only.
-
-## Contact Me
-
-Email: gongchengxin@pku.edu.cn
+2200017436@stu.pku.edu.cn
