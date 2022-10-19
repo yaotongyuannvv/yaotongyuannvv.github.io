@@ -1,6 +1,6 @@
 ## Leninist Aufheben
 
-[Ismism](https://geist-gespenst.notion.site/geist-gespenst/Ismism-Learning-Programme-420f37037481476d824679228f3c2c12) ([Weimingzi]((https://space.bilibili.com/23191782)))
+[Ismism](https://geist-gespenst.notion.site/geist-gespenst/Ismism-Learning-Programme-420f37037481476d824679228f3c2c12) Transcript ([Weimingzi](https://space.bilibili.com/23191782))
 
 ## Studies
 
