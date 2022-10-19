@@ -4,8 +4,8 @@
 
 On Social Suicide (2022.2)
 
-On Philosophical Suicide - Planned
+On Philosophical Suicide
 
-On Class Suicide - Planned
+On Class Suicide
 
-**Click [here](https://yaotongyuannvv.github.io/) to go back. **
+## Click [here](https://yaotongyuannvv.github.io/) to go back. 
