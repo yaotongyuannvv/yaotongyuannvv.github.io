@@ -2,7 +2,7 @@
 
 **Workshops**
 
-[Shimo]https://shimo.im/folder/m4kMLGzJ4ltlPMqD
+[Shimo](https://shimo.im/folder/m4kMLGzJ4ltlPMqD)
 
 **Documents**
 
