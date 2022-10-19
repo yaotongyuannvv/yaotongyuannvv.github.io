@@ -1,6 +1,6 @@
 ## Leninist Aufheben
 
-[Ismism](https://geist-gespenst.notion.site/geist-gespenst/Ismism-Learning-Programme-420f37037481476d824679228f3c2c12) (Weimingzi)
+[Ismism](https://geist-gespenst.notion.site/geist-gespenst/Ismism-Learning-Programme-420f37037481476d824679228f3c2c12) ([Weimingzi]((https://space.bilibili.com/23191782)))
 
 ## Studies
 
@@ -20,13 +20,13 @@
 
 **Websites**
 
-[中文马克思主义文库](https://www.marxists.org/chinese/index.html)
+[Marxist Internet Archive](https://www.marxists.org/index.htm)
 
 **Resources**
 
 ## Projects
 
-**Geist**
+**[Geist](https://yaotongyuannvv.github.io/works/)**
 
 Lectures on Philosophical Attitudes - Ongoing
 
