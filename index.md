@@ -14,9 +14,15 @@
 
 ## Writings
 
+[On Suicide](https://yaotongyuannvv.github.io/highschool/)
+
 ## External Links
 
+**Websites**
+
 [中文马克思主义文库](https://www.marxists.org/chinese/index.html)
+
+**Resources**
 
 ## Projects
 
@@ -24,6 +30,6 @@
 
 Lectures on Philosophical Attitudes - Ongoing
 
-## Contact Me
+## Correspondence
 
 2200017436@stu.pku.edu.cn
