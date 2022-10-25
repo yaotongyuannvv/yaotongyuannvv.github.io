@@ -12,6 +12,10 @@
 
 **Courses**
 
+[Western Sociological Theories I](https://geist-gespenst.notion.site/0c7c837c16da4f3fba4ad90de2bc25de)(2022A), Sun Feiyu
+
+[An Introduction to Philosophy](https://geist-gespenst.notion.site/49f2d28bcb8949989d4a56db51baa211)(2022A), Li Meng
+
 ## Writings
 
 ## External Links
