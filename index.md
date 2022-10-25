@@ -2,7 +2,7 @@
 
 [Ismism](https://geist-gespenst.notion.site/geist-gespenst/Ismism-Learning-Programme-420f37037481476d824679228f3c2c12)
 
-[...](https://yaotongyuannvv.github.io/lenauf/)
+[Weekly Meetings](https://yaotongyuannvv.github.io/lenauf/)
 
 ## Studies
 
@@ -12,15 +12,7 @@
 
 **Courses**
 
-[Quantitative Molecular Biology](https://geist-gespenst.notion.site/QMB-Studies-5fef7e3be5b3435eb1efba624dd51f97)
-
-[Calculus Studies](https://geist-gespenst.notion.site/Calculus-Studies-1d1d2654a455413e941c34df86d12b88)
-
-[General Chemistry Studies](https://geist-gespenst.notion.site/General-Chemistry-Studies-0f4abacfe9cc405ba319c1d57a5c3cf7)
-
 ## Writings
-
-[...](https://yaotongyuannvv.github.io/highschool/)
 
 ## External Links
 
