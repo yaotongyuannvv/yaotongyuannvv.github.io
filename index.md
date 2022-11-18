@@ -10,6 +10,8 @@
 
 [Durkheim's On Suicide](https://geist-gespenst.notion.site/Durkheim-s-On-Suicide-9d9b90ee8d1f468a855aae7afcc4061b)
 
+[Schelling's System of Transcendental Idealism](https://shimo.im/docs/L9kBMoGv7nhQZzqK)
+
 **Courses**
 
 [Western Sociological Theories I ](https://geist-gespenst.notion.site/0c7c837c16da4f3fba4ad90de2bc25de)(2022A), Sun Feiyu
