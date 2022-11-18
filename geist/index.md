@@ -10,4 +10,6 @@
 
 Lectures on Philosophical Attitudes - Ongoing
 
+An Introduction to Marx's Capital - Ongoing
+
 ## [Go Back](https://yaotongyuannvv.github.io/)
