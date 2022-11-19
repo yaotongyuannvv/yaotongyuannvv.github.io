@@ -10,6 +10,8 @@
 
 Lectures on Philosophical Attitudes - Ongoing
 
-An Introduction to Marx's Capital - Ongoing
+An Introduction to Marx's Capital - [Ongoing]()
+
+Discussions on Wissenschaft der Logik - [Ongoing]()
 
 ## [Go Back](https://yaotongyuannvv.github.io/)
