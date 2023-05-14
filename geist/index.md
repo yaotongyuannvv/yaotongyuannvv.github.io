@@ -10,10 +10,12 @@
 
 **Programmes**
 
-Lectures on Philosophical Attitudes - Ongoing
+On Philosophical Attitudes
 
-An Introduction to Marx's Capital - [Ongoing](https://yaotongyuannvv.github.io/geist/capital)
+Das Kapital
 
-Discussions on Wissenschaft der Logik - [Ongoing](https://yaotongyuannvv.github.io/geist/logik)
+Wissenschaft der Logik
+
+Seminar: History of Philosophy; Gushixinbian (2023A)
 
 ## [Go Back](https://yaotongyuannvv.github.io/)
