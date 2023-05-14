@@ -8,15 +8,29 @@
 
 **Books**
 
-[Durkheim's On Suicide](https://geist-gespenst.notion.site/Durkheim-s-On-Suicide-9d9b90ee8d1f468a855aae7afcc4061b)
 
-[Schelling's System of Transcendental Idealism](https://shimo.im/docs/L9kBMoGv7nhQZzqK)
 
 **Courses**
 
 [Western Sociological Theories I ](https://geist-gespenst.notion.site/0c7c837c16da4f3fba4ad90de2bc25de)(2022A), Sun Feiyu
 
-[An Introduction to Philosophy ](https://geist-gespenst.notion.site/49f2d28bcb8949989d4a56db51baa211)(2022A), Li Meng
+[Introduction to Philosophy ](https://geist-gespenst.notion.site/49f2d28bcb8949989d4a56db51baa211)(2022A), Li Meng
+
+2023
+
+[Plato's Republic ](https://geist-gespenst.notion.site/)(2023S), Wu Zengding
+
+[Introduction to Ethics](https://geist-gespenst.notion.site/)(2023S), Chen Siyi
+
+[Religious Studies ](https://geist-gespenst.notion.site/)(2023S), Wu Fei
+
+[Western Philosophy ](https://geist-gespenst.notion.site/)(2023S), Cheng Wei
+
+[Marxist Philosophy ](https://geist-gespenst.notion.site/)(2023S), Zhang Wu - NOT RECOMMENDED
+
+[Hegel's Phenomenology of Spirit I ](https://geist-gespenst.notion.site/)(2023S), Liu Zhe
+
+[Schelling's Philosophy of Mythology I ](https://geist-gespenst.notion.site/)(2023S), Xian Gang
 
 ## Writings
 
