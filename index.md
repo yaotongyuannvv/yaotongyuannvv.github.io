@@ -12,7 +12,7 @@
 
 [Introduction to Philosophy ](https://geist-gespenst.notion.site/49f2d28bcb8949989d4a56db51baa211)(2022A), Li Meng
 
-[Introduction to Ethics](https://geist-gespenst.notion.site/)(2023S), Chen Siyi
+[Introduction to Ethics ](https://geist-gespenst.notion.site/)(2023S), Chen Siyi
 
 [Plato's Republic ](https://geist-gespenst.notion.site/)(2023S), Wu Zengding
 
@@ -39,6 +39,8 @@
 ## Projects
 
 **[Geist](https://yaotongyuannvv.github.io/geist/)**
+
+**Fruitymix**
 
 ## Correspondence
 
