@@ -18,13 +18,13 @@
 
 [Western Philosophy I ](https://geist-gespenst.notion.site/)(2023S), Cheng Wei
 
-[Introduction to Philosophy of Science ](https://geist-gespenst.notion.site/)(2023S), Lu Qiaoying & Wang Yuzhou - NOT RECOMMENDED
+[Introduction to Philosophy of Science ](https://geist-gespenst.notion.site/)(2023S), Lu Qiaoying & Wang Yuzhou
 
 [Hegel's Phenomenology of Spirit I ](https://geist-gespenst.notion.site/)(2023S), Liu Zhe
 
 [Religious Studies ](https://geist-gespenst.notion.site/)(2023S), Wu Fei
 
-[Marxist Philosophy I ](https://geist-gespenst.notion.site/)(2023S), Zhang Wu - NOT RECOMMENDED
+[Marxist Philosophy I ](https://geist-gespenst.notion.site/)(2023S), Zhang Wu
 
 [Schelling's Philosophy of Mythology I ](https://geist-gespenst.notion.site/)(2023S), Xian Gang
 
@@ -39,8 +39,6 @@
 ## Projects
 
 **[Geist](https://yaotongyuannvv.github.io/geist/)**
-
-**Fruitymix**
 
 ## Correspondence
 
