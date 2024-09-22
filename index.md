@@ -2,8 +2,8 @@
 
 **Menu**
 
-[Menu](https://yaotongyuannvv.github.io/menu.pdf/))(2024.9.)
+[Menu 2024.9.](https://yaotongyuannvv.github.io/menu.pdf/)
 
 **Shift Table**
 
-[Shift Table](https://yaotongyuannvv.github.io/shifttable.xlsx/))(2024.9.)
+[Shift Table 2024.9.](https://yaotongyuannvv.github.io/shifttable.xlsx/)
